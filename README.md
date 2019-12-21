@@ -1,1 +1,1 @@
-HELLO WORLD
+# 재고관리 샘플
